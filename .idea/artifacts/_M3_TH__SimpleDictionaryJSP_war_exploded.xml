@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="[M3-TH] SimpleDictionaryJSP:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_M3_TH__SimpleDictionaryJSP_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="[M3-TH] SimpleDictionaryJSP/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="[M3-TH] SimpleDictionaryJSP" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
